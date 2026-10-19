@@ -1,4 +1,4 @@
-package java.datetime;
+package learningjava.datetime;
 
 import java.time.Instant;
 import java.time.LocalDate;
@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
-public class Formatacao {
+public class Formatting {
     public static void main(String[] args) {
         LocalDate data01 = LocalDate.parse("2022-09-19");
         LocalDateTime data02 = LocalDateTime.parse("2022-09-18T18:09:20");

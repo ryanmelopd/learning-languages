@@ -1,9 +1,9 @@
-package java.datetime;
+package learningjava.datetime;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
-public class ObterDados {
+public class GetData {
     public static void main(String[] args) {
         LocalDate data04 = LocalDate.parse("2022-09-19");
         LocalDateTime data05 = LocalDateTime.parse("2026-03-01T20:09:10");

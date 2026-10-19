@@ -1,4 +1,4 @@
-package java.datetime;
+package learningjava.datetime;
 
 import java.time.Duration;
 import java.time.Instant;
@@ -6,7 +6,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 
-public class Operacoes {
+public class Operations {
     public static void main(String[] args) {
         LocalDate data04 = LocalDate.parse("2022-09-19");
         LocalDateTime data02 = LocalDateTime.parse("2022-09-18T18:09:20");

@@ -1,11 +1,11 @@
-package java.datetime;
+package learningjava.datetime;
 
 import java.time.Instant;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 
-public class Conversao {
+public class Conversion {
     public static void main(String[] args) {
         Instant data06 = Instant.parse("2026-03-01T01:30:10Z");
 
